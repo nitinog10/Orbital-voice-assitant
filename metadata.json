@@ -1,0 +1,7 @@
+{
+  "name": "Orbital Voice Assistant",
+  "description": "A real-time voice-interactive AI assistant featuring a reactive 3D wireframe interface inspired by sci-fi aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
